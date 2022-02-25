@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_homepage.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_mypage.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_register.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_frgament__customer_center.xml" value="0.264" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_info.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_my_info.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_mypage.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_notice.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_mypage.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
