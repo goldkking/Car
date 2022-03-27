@@ -3,21 +3,47 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/carfive.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/carfour.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/carone.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/carseven.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/carsix.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/carthree.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/cartwo.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/edge.xml" value="0.118" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/edge_header.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/edge_textview.xml" value="0.115" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/ic_car.xml" value="0.118" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/ic_dashboard.xml" value="0.1235" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/ic_home.xml" value="0.1235" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1995" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/drawable/ic_user.xml" value="0.1235" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_calendar.xml" value="0.12777777777777777" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_homepage.xml" value="0.18515625" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_mypage.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_photo.xml" value="0.1" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/activity_register.xml" value="0.18515625" />
-        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_frgament__customer_center.xml" value="0.264" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/centerlist_item.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_center.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_dashboard.xml" value="0.152" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_frgament__customer_center.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_home.xml" value="0.18515625" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_info.xml" value="0.18515625" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_my_info.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_mycar.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_mycarinfo.xml" value="0.1" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_mypage.xml" value="0.2" />
         <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_notice.xml" value="0.176" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_photo.xml" value="0.2" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_settings.xml" value="0.18515625" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/layout/mobile_navigation.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/sooah/AndroidStudioProjects/Car/app/src/main/res/menu/btm_navi_menu.xml" value="0.2" />
       </map>
     </option>
-  </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_mypage.xml" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
